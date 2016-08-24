@@ -28,19 +28,19 @@ body {
 }
 
 .ryu-ready {
-	background-image: url('../images/ryu-ready-position.gif');
+	background-image: url('file:///Users/monanakamura/Desktop/Projects/jquery-streetfighter/images/ryu-ready-position.gif');
 }
 
 .ryu-still {
-	background-image: url('../images/ryu-standing-still.png');
+	background-image: url('file:///Users/monanakamura/Desktop/Projects/jquery-streetfighter/images/ryu-standing-still.png');
 }
 
 .ryu-throwing {
-	background-image: url('../images/ryu-throwing-hadouken.png');
+	background-image: url('file:///Users/monanakamura/Desktop/Projects/jquery-streetfighter/images/ryu-throwing-hadouken.png');
 }
 
 .ryu-cool {
-	background-image: url('../images/ryu-cool.gif')
+	background-image: url('file:///Users/monanakamura/Desktop/Projects/jquery-streetfighter/images/ryu-cool.gif')
 }
 
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
@@ -48,7 +48,7 @@ body {
 }
 
 .hadouken {
-	background-image: url('../images/hadouken.gif');
+	background-image: url('file:///Users/monanakamura/Desktop/Projects/jquery-streetfighter/images/hadouken.gif');
 	width: 156px;
 	height: 90px;
 	display: none;
